@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "components-playground",
+    "name": "apple-filia-components-playground",
     "slug": "components-playground",
     "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
